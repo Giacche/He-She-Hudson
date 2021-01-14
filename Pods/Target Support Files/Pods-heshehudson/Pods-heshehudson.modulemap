@@ -1,0 +1,6 @@
+framework module Pods_heshehudson {
+  umbrella header "Pods-heshehudson-umbrella.h"
+
+  export *
+  module * { export * }
+}
